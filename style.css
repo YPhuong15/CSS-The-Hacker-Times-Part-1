@@ -53,6 +53,9 @@ a:hover {
 .newspaper-container > nav {
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;
+    position: sticky;
+    top: 0em;
+    background-color: white;
 }
 
 img {
